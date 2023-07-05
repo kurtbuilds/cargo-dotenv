@@ -28,3 +28,8 @@ cargo dotenv dotenv dotenv dotenv dotenv dotenv dotenv dotenv dotenv check
 ```bash
 cargo install cargo-dotenv
 ```
+
+# Issue Tracker
+
+- EnvFile: https://github.com/ashald/EnvFile/issues/71
+- IntelliJ (YouTrack): https://youtrack.jetbrains.com/issue/IDEA-137820

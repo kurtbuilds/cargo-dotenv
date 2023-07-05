@@ -1,10 +1,11 @@
 [package]
 name = "cargo-dotenv"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 license = "MIT"
 readme = "README.md"
 description = "A tiny cargo subcommand to run cargo commands with dotenv"
+repository = "https://github.com/kurtbuilds/cargo-dotenv"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
